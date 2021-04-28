@@ -21,9 +21,9 @@
   "author": "Pole",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://www.hi-im-pole.com/"
   },
-  "homepage": "",
+  "homepage": "https://www.hi-im-pole.com/",
   "dependencies": {
     "autoprefixer": "^7.1.5",
     "babel-loader": "^7.1.2",
